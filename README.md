@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radhika757
 - 👀 I’m interested in Web Development, Gym, Books and Outings!
-- 🌱 I’m currently learning React and python 
-- 💞️ I’m looking to collaborate on projects on Js, Php, python and React.
+- 🌱 I’m currently learning React and Node.js
+- 💞️ I’m looking to collaborate on projects on JavaScript and React.
 - 📫 How to reach me- raoradhika2000@gmail.com
 
 <!---
